@@ -1,7 +1,7 @@
 import pygame as pg,sys
 from pygame.locals import *
 import time
-
+import cv2
 #initialize global variables
 XO = 'x'
 winner = None
